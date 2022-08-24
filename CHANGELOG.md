@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/gwstudent/greetings-ci/compare/v0.2.0...v0.3.0) (2022-08-24)
+
+
+### Features
+
+* add artifact versioning ([39b1d30](https://github.com/gwstudent/greetings-ci/commit/39b1d30eb769d218319f5258a04fc019d455e73f))
+
+
+
 # [0.2.0](https://github.com/gwstudent/greetings-ci/compare/v0.1.1...v0.2.0) (2022-08-24)
 
 
