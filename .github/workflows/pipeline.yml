@@ -38,7 +38,7 @@ jobs:
       with:
         arguments: build
         
-               
+              
     - name: Tag artifact 
       run: mv build/libs/greetings-ci.jar build/libs/greetings-ci-${{ steps.changelog.outputs.version }}.jar
         
