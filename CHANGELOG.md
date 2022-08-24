@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/gwstudent/greetings-ci/compare/v0.1.1...v0.2.0) (2022-08-24)
+
+
+### Features
+
+* upload artifact ([b6b1172](https://github.com/gwstudent/greetings-ci/commit/b6b1172c1f9ecee0d7341f42b2b3398c5edf8024))
+
+
+
 ## [0.1.1](https://github.com/gwstudent/greetings-ci/compare/v0.1.0...v0.1.1) (2022-08-24)
 
 
